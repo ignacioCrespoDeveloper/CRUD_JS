@@ -1,0 +1,3 @@
+# ignoro node_modules al pushear el proyecto al respositorio remoto
+/node_modules
+.env
