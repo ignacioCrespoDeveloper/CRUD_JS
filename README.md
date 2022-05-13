@@ -1,6 +1,6 @@
 <img src="icon.png" align="right" />
 
-# Awesome README ![Awesome
+# CRUD node.js
 
 > My name is Ignacio Crespo uruguayan developer (28 years old) and this its a simple CRUD with Mysql that you can easly clone and start using.
 
